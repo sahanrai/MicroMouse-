@@ -12,4 +12,5 @@ Final year project 2018
 - HCSR04 sensors              x3 
 - L298N motor driver
 - Ball caster
-- MDF board 
+- Battery 9V
+- MDF board (cut to size)
